@@ -9,11 +9,12 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="d33682" />
     <option name="selectedTheme" value="SOLARIZED_LIGHT" />
     <option name="userId" value="3fbe5f92:16e8fc58992:-8000" />
-    <option name="version" value="4.2.2" />
+    <option name="version" value="4.11.5" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
