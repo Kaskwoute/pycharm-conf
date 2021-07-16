@@ -1,7 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactDropdowns" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -11,10 +18,10 @@
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="d33682" />
-    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="accentColor" value="559ce2" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="3fbe5f92:16e8fc58992:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="6.7.2" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
